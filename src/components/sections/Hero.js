@@ -61,7 +61,7 @@ const Hero = ({
         <div className={innerClasses}>
           <div className="hero-content">
             <h1 className="mt-0 mb-16 reveal-from-bottom" data-reveal-delay="200">
-              Peacio E-commerce <span className="text-:color-primary">Payments</span>
+              Peacio Device <span className="text-:color-primary">Payments</span>
             </h1>
             <div className="container-xs">
               <p className="m-0 mb-32 reveal-from-bottom" data-reveal-delay="400">
@@ -73,7 +73,7 @@ const Hero = ({
           </div>
           <div className="hero-figure reveal-from-bottom illustration-element-01" data-reveal-value="20px" data-reveal-delay="800">
             <a
-              data-video="https://www.youtube.com/embed/WWNwOy8wJH0"
+              data-video="https://www.youtube.com/embed/JU0dBWZQr5I"
               href="#0"
               aria-controls="video-modal"
               onClick={openModal}
@@ -90,7 +90,7 @@ const Hero = ({
             id="video-modal"
             show={videoModalActive}
             handleClose={closeModal}
-            video="https://www.youtube.com/embed/HXaeUn7hQFM"
+            video="https://www.youtube.com/embed/JU0dBWZQr5I"
             videoTag="iframe" />
         </div>
       </div>

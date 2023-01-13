@@ -44,8 +44,8 @@ const FeaturesTiles = ({
   );
 
   const sectionHeader = {
-    title: 'Deccentralized payments',
-    paragraph: 'Direct Person to Person Payments.'
+    title: 'Wallet payments',
+    paragraph: 'Device to device payments.'
   };
 
   return (

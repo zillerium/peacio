@@ -44,8 +44,8 @@ const Testimonial = ({
   );
 
   const sectionHeader = {
-    title: 'Decentralized Payments',
-    paragraph: 'Direct person to person payments via Peacio.'
+    title: 'Wallet Payments',
+    paragraph: 'Device to device payments.'
   };
 
   return (
